@@ -1,8 +1,3 @@
-<div align="center">
-
-[![XDA Profile](https://shields.io)](https://xdaforums.com/m/0xhaze.13421638/)
-
-<br />
 <br />
 
 <a href="https://holopin.io/@hazemababneh">
