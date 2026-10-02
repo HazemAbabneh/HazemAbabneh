@@ -1,4 +1,12 @@
+<div align="center">
+
+## System Engineering & Development
+
+[![XDA Profile](https://shields.io)](https://xdaforums.com/m/0xhaze.13421638/)
+
 <br />
+<br />
+
 
 <div align="center">
 
