@@ -1,12 +1,12 @@
 <div align="center">
-  
+
 [![XDA Profile](https://shields.io)](https://xdaforums.com/m/0xhaze.13421638/)
 
-  <br />
+<br />
 <br />
 
-<div align="center">
-
-[![An image of @hazemababneh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hazemababneh)](https://holopin.io/@hazemababneh)
+<a href="https://holopin.io/@hazemababneh">
+  <img src="https://holopin.me/hazemababneh" width="420" alt="0xHaze Badge Board" />
+</a>
 
 </div>
